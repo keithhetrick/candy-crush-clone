@@ -4,6 +4,10 @@
 
 4/5 Dentist don't recommend this crunchy, sugary clone of the famous Candy Crush game. Be a rebel, get some cavities.
 
+[Demo](http://18.118.133.165/)
+
+<img width="958" alt="Screen Shot 2022-10-14 at 12 26 32 PM" src="https://user-images.githubusercontent.com/104343338/195906008-f81293a0-365d-4e18-a2c9-c57cd54aaca1.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
