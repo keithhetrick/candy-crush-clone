@@ -2,6 +2,8 @@
 
 ### Built with React, Redux Toolkit, Typescript, Tailwind CSS & deployed to AWS
 
+4/5 Dentist don't recommend this crunchy, sugary clone of the famous Candy Crush game. Be a rebel, get some cavities.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
